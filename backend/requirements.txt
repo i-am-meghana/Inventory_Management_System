@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-SQLAlchemy==3.0.3
+mysql-connector-python==8.0.33
+Flask-RESTful==0.3.10
+pytest==7.4.0
+python-decouple
+Flask-Migrate==4.1.0
